@@ -64,9 +64,8 @@ section {
 }
 
 #page2{
-    z-index:999;
-    background-color:#9BC4E2;
-    height:640px;
+  z-index:999;
+  background-color:#9BC4E2;
 }
 
 #page3{
