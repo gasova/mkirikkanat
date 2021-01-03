@@ -17,6 +17,7 @@ h1, h2,h3,h4,h6 {
   clear: both;
 }
 
+
 .bg{
   position: absolute;
   top: 0;
@@ -38,7 +39,7 @@ h1, h2,h3,h4,h6 {
   bottom: 45px;
   height: 60px;
   left: 0;
-  
+
   padding: 0;
   margin: 0 !important;
 }
@@ -79,7 +80,11 @@ h1, h2,h3,h4,h6 {
 }
 
 #footer {
-  height:92px;
+  background: #333;
+}
+
+#footer {
+  min-height:92px;
 }
 
 .menu {
@@ -165,7 +170,6 @@ h1, h2,h3,h4,h6 {
 }
 
 .footer-bottom {
-    background: #333;
     padding: 24px 0 10px;
 } 
 
