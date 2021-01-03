@@ -58,7 +58,7 @@ h1, h2,h3,h4,h6 {
 }
 
 #page2{
-  z-index:980;
+  z-index:-1.;
   background-color:#9BC4E2;
   position: relative;
 }
