@@ -1,0 +1,37 @@
+/* Yazilar bolumu — eski sitenin renkleri (#0198E1, #9BC4E2, #87CEFA) ve Josefin Sans ile */
+#page-yazilar { background-color: #0198E1; padding: 22px 0; }
+#page-yazilar .yazilar-bag { color: #fff; text-decoration: none; font-size: 1.75rem; font-weight: 700; display: block; }
+#page-yazilar .yazilar-bag span { display: block; font-weight: 100; font-size: 1.1rem; }
+#page-yazilar .yazilar-bag:hover span { text-decoration: underline; }
+
+body.yazilar { background: #fff; }
+.yazilar #ust { background-color: #9BC4E2; padding: 16px 0; }
+.yazilar #ust a { color: #0198E1; text-decoration: none; font-weight: 100; font-size: 1.3rem; }
+.yazilar #ust strong { font-weight: 400; }
+.yazilar #yazilar { padding: 28px 0 48px; min-height: 60vh; }
+.yazilar h1 { color: #0198E1; font-weight: 400; font-size: 2rem; }
+.yazilar h1 small { color: #666; font-size: 1rem; font-weight: 100; }
+.yazilar h2 { color: #0198E1; font-weight: 400; font-size: 1.3rem; margin-top: 1.6rem; }
+.yazilar a { color: #0174ad; }
+.yazilar .kirinti { font-size: .95rem; margin-bottom: .5rem; }
+
+.yazilar ul.yillar { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(110px, 1fr)); gap: 8px; }
+.yazilar ul.yillar li { background: #e8f3fb; padding: 8px 10px; }
+.yazilar ul.yillar li a { font-weight: 700; text-decoration: none; }
+.yazilar ul.yillar small { color: #666; }
+
+.yazilar ul.liste { list-style: none; padding: 0; }
+.yazilar ul.liste li { padding: 6px 0; border-bottom: 1px solid #e5eef5; }
+.yazilar ul.liste .tarih { color: #666; display: inline-block; min-width: 9.5em; }
+.yazilar ul.liste .gazete { color: #888; font-size: .85rem; }
+
+.yazilar article { max-width: 720px; }
+.yazilar .kunye { color: #666; }
+.yazilar .metin p { font-family: Georgia, 'Times New Roman', serif; font-size: 1.1rem; line-height: 1.65; }
+.yazilar .metin p.not { font-family: inherit; font-size: .95rem; color: #555; background: #f2f7fb; padding: 6px 10px; }
+.yazilar .kupur { margin-top: 2rem; max-width: 720px; }
+.yazilar .kupur p { color: #666; font-size: .95rem; }
+.yazilar .kupur img { max-width: 100%; max-height: 420px; margin: 0 8px 8px 0; border: 1px solid #ddd; }
+
+.yazilar #ara { margin: 1rem 0 1.5rem; max-width: 720px; }
+.yazilar #footer { clear: both; }
